@@ -2,6 +2,7 @@
 ---
 - name: Configure nginx web server
   hosts: webservers
+  become: True
   tasks:
   - name: install nginx server 
     apt: 
