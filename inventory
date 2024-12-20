@@ -1,2 +1,2 @@
-34.204.171.33
-54.91.10.78
+34.204.171.33 ansible_ssh_private_key_file=~ ansible_user=root 
+54.91.10.78 ansible_ssh_private_key_file=~ ansible_user=root
